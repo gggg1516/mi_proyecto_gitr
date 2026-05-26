@@ -7,3 +7,4 @@ CAMBIADO POR EL MASTER
 CAMBIADO EN DESARROLLO
 hola
 cambios desde local
+cambios desde remoto
